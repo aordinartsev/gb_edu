@@ -1,1 +1,1 @@
-# gb-edu
+# gb_edu
